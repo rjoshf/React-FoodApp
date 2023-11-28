@@ -249,6 +249,16 @@ h1 {
   background-color: rgba(0, 0, 0, 0.55);
 }
 
+.error {
+  border: 2px solid salmon;
+  border-radius: 10px;
+  background-color: salmon;
+  color: black;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
 @keyframes fade-slide-up {
   from {
     opacity: 0;
